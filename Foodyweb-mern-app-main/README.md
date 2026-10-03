@@ -36,7 +36,7 @@ Authentication: JWT
 📦 Installation & Setup
 
 1️⃣ Clone the repository
-git clone https://github.com/lakshayy25/Foodyweb-mern-app.git
+git clone https://github.com/vivekwork0011/Foodyweb-mern-app/tree/main/Foodyweb-mern-app-main
 
 2️⃣ Navigate to project folder
 cd Foodyweb-mern-app
